@@ -1,0 +1,3 @@
+Esta actividad implementa un árbol binario de búsqueda (BST), con un método para buscar un valor en el árbol y otro para calcular su altura.
+Se muestra cómo agregar nodos, buscar un valor específico, y calcular la altura máxima del árbol.
+Al final, el programa busca un valor (8) y muestra si está o no en el árbol, además de imprimir la altura del mismo.
