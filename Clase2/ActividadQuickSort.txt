@@ -1,0 +1,3 @@
+Esta actividad implementa el algoritmo 'QuickSort', que ordena un array de manera eficiente utilizando divide y vencerás.
+Se basa en seleccionar un pivote y reordenar los elementos de manera que todos los menores al pivote queden a su izquierda
+y los mayores a su derecha. Luego, aplica recursivamente QuickSort a las sublistas generadas.
