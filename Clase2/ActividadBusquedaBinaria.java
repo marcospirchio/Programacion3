@@ -1,3 +1,5 @@
+//Clase 2
+//Actividad 2
 public class BusquedaBinaria {
 
     public static int buscarElemento(int[] lista, int elementoBuscado) {
