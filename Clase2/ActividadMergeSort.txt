@@ -1,0 +1,4 @@
+Este código implementa el algoritmo de MergeSort (ordenamiento por mezcla). Primero, divide recursivamente el arreglo
+en mitades más pequeñas hasta que cada subarreglo tiene solo un elemento. Luego, combina estas mitades ordenadas en un solo arreglo, 
+comparando los elementos de las dos mitades y copiando los menores a la lista principal. 
+El proceso garantiza que el arreglo quede ordenado en O(n log n) tiempo, siendo eficiente para grandes volúmenes de datos.
