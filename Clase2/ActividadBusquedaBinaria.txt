@@ -1,0 +1,4 @@
+El programa implementa un algoritmo de búsqueda binaria.
+La búsqueda binaria es un algoritmo eficiente para encontrar un elemento en un arreglo ordenado.
+El objetivo es dividir el arreglo en mitades, descartando la mitad que no contiene el valor buscado, y asi sucesivamente. 
+La complejidad del algoritmo es O(log n), lo que lo hace mucho más rápido que una búsqueda lineal.
