@@ -1,9 +1,9 @@
-public class ActFloydWarshall {
+public class FloydWarshall {
 
     final static int INFINITO = 100000;  // Valor alto para simbolizar el infinito
 
     public static void main(String[] args) {
-        ActFloydWarshall cm = new ActFloydWarshall();
+        FloydWarshall cm = new FloydWarshall();
         // Representación de los vértices y las conexiones
         int matrizAdyacencia[][] = {
                             {0, 3, INFINITO, 6},  // Vértice A
