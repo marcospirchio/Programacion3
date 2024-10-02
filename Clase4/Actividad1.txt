@@ -1,5 +1,5 @@
-Ordenación:
-La ordenación de la lista de monedas tiene una complejidad de O (n log n), donde n es el número de monedas.
+Ordenamiento:
+El ordenamiento de la lista de monedas tiene una complejidad de O (n log n), donde n es el número de monedas.
 
 Iteración sobre las Monedas:
 La iteración a través de la lista para restar las monedas del monto objetivo es O(n), ya que se revisa cada moneda una vez.
