@@ -14,10 +14,10 @@ public class SeleccionProyectosFuerzaBruta {
 
     public static void main(String[] args) {
         Proyecto[] proyectos = {
-            new Proyecto(10, 100),  // Proyecto 1
-            new Proyecto(15, 200),  // Proyecto 2
-            new Proyecto(20, 150),  // Proyecto 3
-            new Proyecto(25, 300)   // Proyecto 4
+            new Proyecto(10, 100),  // Proyecto1
+            new Proyecto(15, 200),  // Proyecto2
+            new Proyecto(20, 150),  // Proyecto3
+            new Proyecto(25, 300)   // Proyecto4
         };
 
         int presupuesto = 40;
@@ -51,3 +51,7 @@ public class SeleccionProyectosFuerzaBruta {
         return mejorBeneficio;
     }
 }
+/*
+Complejidad:
+Tiempo: O(2^n) // Espacio: O(1)
+*/
