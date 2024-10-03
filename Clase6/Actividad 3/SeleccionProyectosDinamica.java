@@ -46,7 +46,9 @@ public class SeleccionProyectosDinamica {
 }
 
 
-/*
-Complejidad:
- Tiempo: O(n log n) // Espacio: O(1)
-*/
+    /*
+    Complejidad:
+    O(n×P), donde n es el número de proyectos y P es el presupuesto disponible.
+    Es un enfoque eficiente que garantiza una solución óptima.
+    */
+
