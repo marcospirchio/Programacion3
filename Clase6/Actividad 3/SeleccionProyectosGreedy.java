@@ -45,3 +45,8 @@ public class SeleccionProyectosGreedy {
         return beneficioTotal;
     }
 }
+
+/*
+Complejidad:
+ Tiempo: O(n log n) // Espacio: O(1)
+*/
