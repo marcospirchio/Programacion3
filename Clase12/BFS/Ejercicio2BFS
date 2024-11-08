@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class EjerciciO2BFS {
+public class Ejercicio2BFS {
     private Map<Integer, List<Integer>> grafo = new HashMap<>();
 
     // agregar una arista al grafo
